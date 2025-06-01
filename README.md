@@ -1,3 +1,30 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/alantang1977/X/main/Pictures/333.png" alt="logo"/>
+  <h1 align="center">jtv</h1>
+</div>
+
+<div align="center">该仓库 jtv 是一个用于整理和生成网络直播频道列表的项目，主要包含频道数据解析、匹配及自动化更新功能。</div>
+<br>
+<p align="center">
+  <a href="https://github.com/alantang1977/jtv/releases">
+    <img src="https://img.shields.io/github/v/release/alantang1977/jtv" />
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/python-%20%3D%203.13-47c219" />
+  </a>
+  <a href="https://github.com/alantang1977/jtv/releases">
+    <img src="https://img.shields.io/github/downloads/alantang1977/jtv/total" />
+  </a>
+  <a href="https://github.com/alantang1977/jtv">
+    <img src="https://img.shields.io/github/stars/alantang1977/jtv" />
+  </a>
+  <a href="https://github.com/alantang1977/jtv/fork">
+    <img src="https://img.shields.io/github/forks/alantang1977/jtv" />
+  </a>
+</p>
+
+
+
 * https://dash.cloudflare.com/sign-up
 * 云部署需要注意
 ***
