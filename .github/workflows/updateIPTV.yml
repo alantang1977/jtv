@@ -1,5 +1,5 @@
 
-name: IP采集检测
+name: 酒店IP采集检测
 
 on:
   schedule:
