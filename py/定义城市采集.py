@@ -326,7 +326,7 @@ if valid_ips_ports:
     for valid_ip_port in valid_ips_ports:
         print(valid_ip_port)
     # 指定需要更新的本地文件路径
-    local_file_path = 'playlist/江苏电信.txt'   #///////////////////////////////////////
+    local_file_path = 'playlist/广东电信.txt'   #///////////////////////////////////////
     # 更新文件中的IP地址并将每个IP写入新行
     update_and_write_ips(local_file_path, valid_ips_ports)
 else:
