@@ -1049,7 +1049,7 @@ with open(file_path, 'r+', encoding='utf-8') as f:
     f.seek(0, 0)
     f.write(f'#鉴于酒店源的不实用性,本次最后一次更新。如果需要的话,请fork以后自行启用工作流程\n')
     f.write(f'最后更新时间{current_time},#genre#\n')
-    f.write(f'虚情的爱,https://vd2.bdstatic.com/mda-mi1dd05gmhwejdwn/sc/cae_h264/1630576203346678103/mda-mi1dd05gmhwejdwn.mp4\n{content}')
+    f.write(f'享受当下,https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/Pictures/Robot.mp4\n{content}')
 
 
 #任务结束,删除不必要的过程文件
