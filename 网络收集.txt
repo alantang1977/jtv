@@ -1,59 +1,24 @@
-2025/06/04 10:55更新,#genre#
+2025/06/05 10:55更新,#genre#
 享受当下,https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/Pictures/Robot.mp4
 港澳A组,#genre#
-TVB华丽台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
-TVB千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
-TVBPlus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
-翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-翡翠台,http://php.jdshipin.com:8880/smt.php
-翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
-凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
-无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+TVBPlus,https://live.tvfix.org/live/tvbplus/index.m3u8
+TVBS新闻,https://live.tvfix.org/live/tvbsnews/index.m3u8
+翡翠台,https://live.tvfix.org/live/jade/index.m3u8
+凤凰香港,https://live.tvfix.org/live/fwxg/index.m3u8
+美亚电影台,https://live.tvfix.org/live/mydy/index.m3u8
+天映经典,https://live.tvfix.org/live/tyjd/1/v1000000/index.m3u8
+天映经典,https://live.tvfix.org/live/tyjd/index.m3u8
 
 港澳B组,#genre#
-TVB娱乐新闻,http://php.jdshipin.com/smt.php?id=Tvbentertainment
-TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
-翡翠台版TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
-凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
-天映,http://php.jdshipin.com/smt.php?id=Celestial
-天映经典,http://php.jdshipin.com/smt.php
-无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-
-港澳C组,#genre#
-TVBPlus,https://live.tvfix.org/live/tvbplus/index.m3u8
-TVBS,https://live.tvfix.org/live/tvbs/index.m3u8
-翡翠台,https://live.tvfix.org/live/jade/index.m3u8
-天映经典,https://live.tvfix.org/live/tyjd/1/v1000000/index.m3u8
-无线新闻台,https://live.tvfix.org/live/inews/index.m3u8
-
-港澳D组,#genre#
 TVBS欢乐,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA5A9262292692622926&ct=19254&tsum=cd369d68a5d2c1a2fa04df748cda142c
 TVBS欢乐,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB7220883472208834&ct=19234&tsum=82bece8e29754b899ffb60e5246dfc74
-翡翠台,http://50.7.234.10:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
+东森电影,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
+凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
 华视,http://50.7.234.10:8278/ctshd_twn/playlist.m3u8?ct=19226&tid=MAFA1309481213094812&tsum=429f7c40691cdcc6c1fb108dbd11e002
 华视,http://50.7.234.10:8278/ctshd_twn/playlist.m3u8?tid=MAFA1309481213094812&ct=19226&tsum=429f7c40691cdcc6c1fb108dbd11e002
 华视,http://50.7.234.10:8278/ctshd_twn/playlist.m3u8?tid=MD3D4860867448608674&ct=19193&tsum=773d4005ddbc68ed16154cc49ba1fc76
-美亚电影台,http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
-中视,http://50.7.234.10:8278/zhongshihd_twn/playlist.m3u8?ct=19226&tid=MB8B7313326473133264&tsum=ae7506028e559f3a6e2a3519b2f6a91e
 
-港澳E组,#genre#
+港澳C组,#genre#
 TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 东森财经新闻台,https://www.youtube.com/watch?v=LbS-xQ67fos
 东森新闻台,https://www.youtube.com/live/V1p33hqPrUk?si=IyGTwsTSIL7hXDKN
@@ -68,7 +33,7 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 中天新闻1台,https://www.youtube.com/watch?v=oIgbl7t0S_w
 中天新闻2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
 
-港澳F组,#genre#
+港澳D组,#genre#
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php
@@ -85,6 +50,24 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 中天新闻,http://cdn.iptv8k.top/dl/jspd.php
 中天新闻,http://cdn.iptv8k.top/dl/jspd.php?id=1
 
+港澳E组,#genre#
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+翡翠台版TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
+凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+
+港澳F组,#genre#
+翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
+凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
+
 港澳G组,#genre#
 凤凰卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a2092354
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
@@ -93,7 +76,6 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 港澳H组,#genre#
 凤凰香港,http://vapi.91kds.cc/live2/ifeng.m3u8?id=fhxghd&apiKey=73c963d13814ce7d0e4743c5e7d033cc
-凤凰中文,http://vapi.91kds.cc/live1/jdtv2.m3u8?id=fhzw&apiKey=73c963d13814ce7d0e4743c5e7d033cc
 凤凰中文,http://vapi.91kds.cc/live2/ifeng.m3u8?id=fhzwhd&apiKey=73c963d13814ce7d0e4743c5e7d033cc
 凤凰资讯,http://vapi.91kds.cc/live2/ifeng.m3u8?id=fhzxhd&apiKey=73c963d13814ce7d0e4743c5e7d033cc
 
