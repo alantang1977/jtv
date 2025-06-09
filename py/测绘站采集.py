@@ -98,6 +98,46 @@ def validate_video(url, mcast):
         print(f"视频验证异常: {str(e)}")
         return False
 
+# 定义频道分类规则
+def classify_channel(channel_name):
+    if channel_name.startswith('CCTV'):
+        return '央视频道'
+    elif any(province in channel_name for province in ['北京', '广东', '江苏', '浙江', '东方', '深圳', '安徽', '河南', '黑龙江', '山东', '天津', '四川', '重庆', '湖北', '江西', '贵州', '东南', '云南', '河北', '海南', '吉林', '辽宁']):
+        return '地方卫视'
+    else:
+        return '其他频道'
+
+def add_channel_classification(file_path):
+    # 读取文件内容
+    with open(file_path, 'r', encoding='utf-8') as file:
+        lines = file.readlines()
+
+    # 初始化分类字典
+    classified_channels = {
+        '央视频道': [],
+        '地方卫视': [],
+        '其他频道': []
+    }
+
+    # 对每一行进行分类
+    for line in lines:
+        parts = line.split(',', 1)
+        if len(parts) >= 2:
+            channel_name = parts[0].strip()
+            category = classify_channel(channel_name)
+            classified_channels[category].append(line)
+
+    # 重新组织文件内容
+    new_lines = []
+    for category, channels in classified_channels.items():
+        if channels:
+            new_lines.append(f'{category},#genre#\n')
+            new_lines.extend(channels)
+
+    # 将处理后的内容写回文件
+    with open(file_path, 'w', encoding='utf-8') as file:
+        file.writelines(new_lines)
+
 def main():
     # 获取需要处理的文件列表
     files = [f.split('.')[0] for f in os.listdir('rtp') if f.endswith('.txt')]
@@ -151,94 +191,100 @@ def main():
                     dst.write(modified + '\n')
             print(f"已生成播放列表: {output_file}")
 
-if __name__ == '__main__':
-    main()
+    print('对playlist文件夹里面的所有txt文件进行去重处理')
+    def remove_duplicates_keep_order(folder_path):
+        for filename in os.listdir(folder_path):
+            if filename.endswith('.txt'):
+                file_path = os.path.join(folder_path, filename)
+                lines = set()
+                unique_lines = []
+                with open(file_path, 'r', encoding='utf-8') as file:
+                    for line in file:
+                        if line not in lines:
+                            unique_lines.append(line)
+                            lines.add(line)
+                # 将保持顺序的去重后的内容写回原文件
+                with open(file_path, 'w', encoding='utf-8') as file:
+                    file.writelines(unique_lines)
+    # 使用示例
+    folder_path = 'playlist'  # 替换为你的文件夹路径
+    remove_duplicates_keep_order(folder_path)
+    print('文件去重完成！移除存储的旧文件！')
 
+    import os
+    import time
+    from tqdm import tqdm
+    import sys
+    import requests  # 新增requests库
 
-print('对playlist文件夹里面的所有txt文件进行去重处理')
-def remove_duplicates_keep_order(folder_path):
+    # 初始化字典以存储IP检测结果
+    detected_ips = {}
+
+    def get_ip_key(url):
+        """从URL中提取IP地址或域名，并构造一个唯一的键"""
+        start = url.find('://') + 3
+        end = url.find('/', start)
+        if end == -1:
+            end = len(url)
+        return url[start:end].strip()
+
+    folder_path = 'playlist'
+
+    if not os.path.isdir(folder_path):
+        print("指定的文件夹不存在。")
+        sys.exit()
+
     for filename in os.listdir(folder_path):
         if filename.endswith('.txt'):
             file_path = os.path.join(folder_path, filename)
-            lines = set()
-            unique_lines = []
             with open(file_path, 'r', encoding='utf-8') as file:
-                for line in file:
-                    if line not in lines:
-                        unique_lines.append(line)
-                        lines.add(line)
-            # 将保持顺序的去重后的内容写回原文件
-            with open(file_path, 'w', encoding='utf-8') as file:
-                file.writelines(unique_lines)
-# 使用示例
-folder_path = 'playlist'  # 替换为你的文件夹路径
-remove_duplicates_keep_order(folder_path)
-print('文件去重完成！移除存储的旧文件！')
-import os
-import time
-from tqdm import tqdm
-import sys
-import requests  # 新增requests库
+                lines = file.readlines()
 
-# 初始化字典以存储IP检测结果
-detected_ips = {}
-
-def get_ip_key(url):
-    """从URL中提取IP地址或域名，并构造一个唯一的键"""
-    start = url.find('://') + 3
-    end = url.find('/', start)
-    if end == -1:
-        end = len(url)
-    return url[start:end].strip()
-
-folder_path = 'playlist'
-
-if not os.path.isdir(folder_path):
-    print("指定的文件夹不存在。")
-    sys.exit()
-
-for filename in os.listdir(folder_path):
-    if filename.endswith('.txt'):
-        file_path = os.path.join(folder_path, filename)
-        with open(file_path, 'r', encoding='utf-8') as file:
-            lines = file.readlines()
-
-        with open(file_path, 'w', encoding='utf-8') as output_file:
-            for line in tqdm(lines, total=len(lines), desc=f"Processing {filename}"):
-                parts = line.split(',', 1)
-                if len(parts) >= 2:
-                    channel_name, url = parts
-                    channel_name = channel_name.strip()
-                    url = url.strip()
-                    ip_key = get_ip_key(url)
-                    
-                    if ip_key in detected_ips:
-                        if detected_ips[ip_key]['status'] == 'ok':
-                            output_file.write(line)
-                        continue
-                    
-                    # 修改后的下载检测逻辑
-                    success = False
-                    start_time = time.time()
-                    try:
-                        with requests.get(url, stream=True, timeout=8) as r:  # 总超时8秒
-                            r.raise_for_status()
-                            downloaded = 0
-                            for chunk in r.iter_content(chunk_size=1024):
-                                if chunk:  # 过滤保活帧
-                                    downloaded += len(chunk)
-                                    if downloaded >= 1024 * 1024:  # 达到1024KB
-                                        success = True
+            with open(file_path, 'w', encoding='utf-8') as output_file:
+                for line in tqdm(lines, total=len(lines), desc=f"Processing {filename}"):
+                    parts = line.split(',', 1)
+                    if len(parts) >= 2:
+                        channel_name, url = parts
+                        channel_name = channel_name.strip()
+                        url = url.strip()
+                        ip_key = get_ip_key(url)
+                        
+                        if ip_key in detected_ips:
+                            if detected_ips[ip_key]['status'] == 'ok':
+                                output_file.write(line)
+                            continue
+                        
+                        # 修改后的下载检测逻辑
+                        success = False
+                        start_time = time.time()
+                        try:
+                            with requests.get(url, stream=True, timeout=8) as r:  # 总超时8秒
+                                r.raise_for_status()
+                                downloaded = 0
+                                for chunk in r.iter_content(chunk_size=1024):
+                                    if chunk:  # 过滤保活帧
+                                        downloaded += len(chunk)
+                                        if downloaded >= 1024 * 1024:  # 达到1024KB
+                                            success = True
+                                            break
+                                    if time.time() - start_time > 8:  # 超时中断
                                         break
-                                if time.time() - start_time > 8:  # 超时中断
-                                    break
-                    except Exception as e:
-                        pass
-                    
-                    detected_ips[ip_key] = {'status': 'ok' if success else 'fail'}
-                    if success:
-                        output_file.write(line)
+                        except Exception as e:
+                            pass
+                        
+                        detected_ips[ip_key] = {'status': 'ok' if success else 'fail'}
+                        if success:
+                            output_file.write(line)
 
-# 打印检测结果（保持不变）
-for ip_key, result in detected_ips.items():
-    print(f"IP Key: {ip_key}, Status: {result['status']}")
+    # 打印检测结果（保持不变）
+    for ip_key, result in detected_ips.items():
+        print(f"IP Key: {ip_key}, Status: {result['status']}")
+
+    # 增加频道分类
+    for filename in os.listdir(folder_path):
+        if filename.endswith('.txt'):
+            file_path = os.path.join(folder_path, filename)
+            add_channel_classification(file_path)
+
+if __name__ == '__main__':
+    main()
