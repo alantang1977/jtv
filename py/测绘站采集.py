@@ -100,12 +100,16 @@ def validate_video(url, mcast):
 
 # 定义频道分类规则
 def classify_channel(channel_name):
-    if channel_name.startswith('CCTV'):
-        return '央视频道'
-    elif any(province in channel_name for province in ['北京', '广东', '江苏', '浙江', '东方', '深圳', '安徽', '河南', '黑龙江', '山东', '天津', '四川', '重庆', '湖北', '江西', '贵州', '东南', '云南', '河北', '海南', '吉林', '辽宁']):
-        return '地方卫视'
-    else:
-        return '其他频道'
+    channel_rules = {
+        '央视频道': lambda name: name.startswith('CCTV'),
+        '地方卫视': lambda name: any(province in name for province in ['北京', '广东', '江苏', '浙江', '东方', '深圳', '安徽', '河南', '黑龙江', '山东', '天津', '四川', '重庆', '湖北', '江西', '贵州', '东南', '云南', '河北', '海南', '吉林', '辽宁']),
+        '广东频道': lambda name: '广东' in name,
+        '港澳台频道': lambda name: any(region in name for region in ['香港', '澳门', '台湾'])
+    }
+    for category, rule in channel_rules.items():
+        if rule(channel_name):
+            return category
+    return '其他频道'
 
 def add_channel_classification(file_path):
     # 读取文件内容
@@ -116,6 +120,8 @@ def add_channel_classification(file_path):
     classified_channels = {
         '央视频道': [],
         '地方卫视': [],
+        '广东频道': [],
+        '港澳台频道': [],
         '其他频道': []
     }
 
