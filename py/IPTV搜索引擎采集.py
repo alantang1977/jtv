@@ -1,6 +1,5 @@
 from lxml import etree
 import time
-#from datetime import datetime, timedelta  # 确保 timedelta 被导入
 import datetime
 import concurrent.futures
 from selenium import webdriver
@@ -23,7 +22,6 @@ import cv2
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse
 from translate import Translator  # 导入Translator类,用于文本翻译
-######################################################################################################################
 
 # 定义请求头
 header = {
@@ -93,10 +91,16 @@ def get_tonkiang(keyword):
 
 # 定义频道分类规则
 def classify_channel(channel_name):
+    guangdong_channels = ['广州综合', '广州新闻', '广东珠江', '广州影视频道', '广东综艺', '广东影视']
+    hkgmta_channels = ['翡翠台', '凤凰中文', '凤凰资讯', '明珠台', '娱乐新闻台', '无线新闻台', '有线新闻', '中天新闻', '星空卫视']
     if channel_name.startswith('CCTV'):
         return '央视频道'
-    elif any(province in channel_name for province in ['北京', '广东', '江苏', '浙江', '东方', '深圳', '安徽', '河南', '黑龙江', '山东', '天津', '四川', '重庆', '湖北', '江西', '贵州', '东南', '云南', '河北', '海南', '吉林', '辽宁']):
+    elif any(province in channel_name for province in ['北京', '江苏', '浙江', '东方', '深圳', '安徽', '河南', '黑龙江', '山东', '天津', '四川', '重庆', '湖北', '江西', '贵州', '东南', '云南', '河北', '海南', '吉林', '辽宁']):
         return '地方卫视'
+    elif any(channel in channel_name for channel in guangdong_channels):
+        return '广东频道'
+    elif any(channel in channel_name for channel in hkgmta_channels):
+        return '港澳台频道'
     else:
         return '其他频道'
 
@@ -109,6 +113,8 @@ def add_channel_classification(file_path):
     classified_channels = {
         '央视频道': [],
         '地方卫视': [],
+        '广东频道': [],
+        '港澳台频道': [],
         '其他频道': []
     }
 
@@ -292,12 +298,21 @@ for filename in os.listdir(folder_path):
 ######################################################################################################################
 
 #  获取远程直播源文件,打开文件并输出临时文件
-url = "https://raw.githubusercontent.com/frxz751113/AAAAA/main/IPTV/汇汇.txt",  #源采集地址
-      "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.m3u",  #源采集地址
-      "https://cnb.cool/junchao.tang/llive/-/git/raw/main/咪咕直播", 
-r = requests.get(url)
-open('综合源.txt','wb').write(r.content)         #打开源文件并临时写入
+urls = [
+    "https://raw.githubusercontent.com/frxz751113/AAAAA/main/IPTV/汇汇.txt",
+    "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.m3u",
+    "https://cnb.cool/junchao.tang/llive/-/git/raw/main/咪咕直播"
+]
+combined_content = ""
+for url in urls:
+    try:
+        r = requests.get(url)
+        combined_content += r.text
+    except Exception as e:
+        print(f"获取 {url} 时发生错误: {e}")
 
+with open('综合源.txt', 'w', encoding='utf-8') as f:
+    f.write(combined_content)
 
 #简体转繁体#
 #简体转繁体
