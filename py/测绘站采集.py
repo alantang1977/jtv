@@ -5,9 +5,6 @@
 #合并所有组播文件并过滤严重掉帧的视频以保证流畅性
 #提取检测后的频道进行分类输出优选组播源
 #提取优选组播源中分类追加到自用直播源
-#后续整理
-#没了！！！！！！！！！！！！
-# -*- coding: utf-8 -*-
 import os
 import time
 import random
@@ -74,8 +71,8 @@ def classify_channel(channel_name):
     rules = {
         '央视频道': lambda name: name.startswith('CCTV'),
         '地方卫视': lambda name: any(province in name for province in ['北京', '广东', '江苏', '浙江', '东方', '深圳', '安徽', '河南', '黑龙江', '山东', '天津', '四川', '重庆']),
-        '广东频道': lambda name: '广东' in name,
-        '港澳台频道': lambda name: any(region in name for region in ['香港', '澳门', '台湾'])
+        '广东频道': lambda name: any(channel in name for channel in ['广州综合', '广州新闻', '广东珠江', '广州影视频道', '广东综艺', '广东影视']),
+        '港澳台频道': lambda name: any(channel in name for channel in ['翡翠台', '凤凰中文', '凤凰资讯', '明珠台', '娱乐新闻台', '无线新闻台', '有线新闻', '中天新闻', '星空卫视']),
     }
     for cat, rule in rules.items():
         if rule(channel_name):
