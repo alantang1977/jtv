@@ -1,4 +1,4 @@
-2025/06/10 10:55更新,#genre#
+2025/06/11 10:54更新,#genre#
 享受当下,https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/Pictures/Robot.mp4
 港澳A组,#genre#
 AMC电影台,https://gat.zhoujie218.top/litv/4gtv-4gtv017
@@ -15,9 +15,9 @@ TVBS,https://gat.zhoujie218.top/litv/4gtv-4gtv073
 公视戏剧,https://gat.zhoujie218.top/litv/4gtv-4gtv042
 华视,https://gat.zhoujie218.top/litv/4gtv-4gtv041
 华视新闻,https://gat.zhoujie218.top/litv/4gtv-4gtv052
-寰宇财经台,https://gat.zhoujie218.top/litv/litv-longturn23
 寰宇新闻台,https://gat.zhoujie218.top/litv/litv-longturn14
 寰宇新闻台湾台,https://gat.zhoujie218.top/litv/litv-longturn15
+靖天电影台,https://gat.zhoujie218.top/litv/4gtv-4gtv061
 靖天欢乐台,https://gat.zhoujie218.top/litv/4gtv-4gtv054
 靖天卡通台,https://gat.zhoujie218.top/litv/4gtv-4gtv044
 靖天日本台,https://gat.zhoujie218.top/litv/4gtv-4gtv047
@@ -29,13 +29,12 @@ TVBS,https://gat.zhoujie218.top/litv/4gtv-4gtv073
 靖天综合台,https://gat.zhoujie218.top/litv/4gtv-4gtv046
 靖洋卡通台,https://gat.zhoujie218.top/litv/4gtv-4gtv057
 靖洋戏剧台,https://gat.zhoujie218.top/litv/4gtv-4gtv045
+龙华电影,https://gat.zhoujie218.top/litv/litv-longturn03
 龙华经典,https://gat.zhoujie218.top/litv/litv-longturn21
-龙华偶像,https://gat.zhoujie218.top/litv/litv-longturn12
+龙华卡通,https://gat.zhoujie218.top/litv/litv-longturn01
 龙华日韩,https://gat.zhoujie218.top/litv/litv-longturn11
 龙华戏剧,https://gat.zhoujie218.top/litv/litv-longturn18
-民视,https://gat.zhoujie218.top/litv/4gtv-4gtv002
 民视,https://gat.zhoujie218.top/litv/4gtv-4gtv155
-民视第一台,https://gat.zhoujie218.top/litv/4gtv-4gtv003
 民视旅游,https://gat.zhoujie218.top/litv/litv-ftv07
 民视台湾台,https://gat.zhoujie218.top/litv/4gtv-4gtv001
 民视台湾台,https://gat.zhoujie218.top/litv/4gtv-4gtv156
@@ -43,13 +42,15 @@ TVBS,https://gat.zhoujie218.top/litv/4gtv-4gtv073
 民视影剧,https://gat.zhoujie218.top/litv/litv-ftv09
 民视综艺,https://gat.zhoujie218.top/litv/4gtv-4gtv004
 台视,https://gat.zhoujie218.top/litv/4gtv-4gtv066
+台视财经,https://gat.zhoujie218.top/litv/4gtv-4gtv056
 台视新闻,https://gat.zhoujie218.top/litv/4gtv-4gtv051
 台湾戏剧台,https://gat.zhoujie218.top/litv/litv-longturn22
-影迷数位电影台,https://gat.zhoujie218.top/litv/4gtv-4gtv011
 中视,https://gat.zhoujie218.top/litv/4gtv-4gtv040
 中视菁采,https://gat.zhoujie218.top/litv/4gtv-4gtv064
 中视经典,https://gat.zhoujie218.top/litv/4gtv-4gtv080
+中视新闻,https://gat.zhoujie218.top/litv/4gtv-4gtv074
 中天新闻,https://gat.zhoujie218.top/litv/4gtv-4gtv009
+猪哥亮歌厅秀,https://gat.zhoujie218.top/litv/4gtv-4gtv006
 
 港澳B组,#genre#
 TVB华丽台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
@@ -65,6 +66,7 @@ TVB华丽台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 华丽翡翠台,http://php.jdshipin.com:8880/smt.php?id=Wlt
+美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 天映,http://php.jdshipin.com:8880/smt.php?id=Celestial
 无线华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
@@ -72,6 +74,7 @@ TVB华丽台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 
 港澳C组,#genre#
 TVB娱乐新闻,http://php.jdshipin.com/smt.php?id=Tvbentertainment
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
@@ -79,18 +82,17 @@ TVB娱乐新闻,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
 翡翠台版TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
 华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
-美亚电影台,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 无线新闻台,http://php.jdshipin.com/smt.php?id=inews_twn
 
 港澳D组,#genre#
-TVBPlus,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
 TVBS欢乐,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB7220883472208834&ct=19234&tsum=82bece8e29754b899ffb60e5246dfc74
 中视,http://50.7.234.10:8278/zhongshihd_twn/playlist.m3u8?ct=19226&tid=MB8B7313326473133264&tsum=ae7506028e559f3a6e2a3519b2f6a91e
 中天亚洲台,http://50.7.234.10:8278/ctiasia_twn/playlist.m3u8?tid=MBDB2043146120431461&ct=19234&tsum=ba6deb1dd785ef48ec39eda87a905fb6
-《七星影仓》,http://50.7.234.10:8278/phoenixinfo_hd/playlist.m3u8?tid=MC1C1591244615912446&ct=19225&tsum=a4fd6441d252c98ea603b13ef749a84e
 
 港澳E组,#genre#
 东森财经新闻台,https://www.youtube.com/watch?v=LbS-xQ67fos
@@ -109,7 +111,6 @@ TVBS欢乐,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB72208834
 港澳F组,#genre#
 凤凰卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a2092354
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&wsMonitor=0
 
 港澳G组,#genre#
@@ -117,6 +118,8 @@ TVBS欢乐,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB72208834
 凤凰中文,http://vapi.91kds.cc/live1/jdtv2.m3u8?id=fhzw&apiKey=73c963d13814ce7d0e4743c5e7d033cc
 凤凰中文,http://vapi.91kds.cc/live1/jdtv2.m3u8?id=fhzwhd&apiKey=73c963d13814ce7d0e4743c5e7d033cc
 凤凰中文,http://vapi.91kds.cc/live2/ifeng.m3u8?id=fhzwhd&apiKey=73c963d13814ce7d0e4743c5e7d033cc
-凤凰资讯,http://vapi.91kds.cc/live1/jdtv2.m3u8?id=fhzxhd&apiKey=73c963d13814ce7d0e4743c5e7d033cc
 凤凰资讯,http://vapi.91kds.cc/live2/ifeng.m3u8?id=fhzxhd&apiKey=73c963d13814ce7d0e4743c5e7d033cc
+
+港澳H组,#genre#
+神乐欧美影院,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 
