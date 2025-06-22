@@ -1,24 +1,24 @@
-2025/06/21 10:51更新,#genre#
+2025/06/22 11:05更新,#genre#
 享受当下,https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/Pictures/Robot.mp4
 港澳A组,#genre#
 TVB华丽台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk2
-凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 无线华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 无线华丽台,http://php.jdshipin.com:8880/smt.php?id=Wlt
-无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 
 港澳B组,#genre#
 TVB娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
+TVBJ1美,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
@@ -26,6 +26,7 @@ TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
+翡翠台版TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
 凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
@@ -33,12 +34,10 @@ TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
 美亚电影,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
 无线翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
 无线翡翠频标,http://php.jdshipin.com/PLTV/iptv.php?id=fct
-无线华丽国,http://php.jdshipin.com/PLTV/iptv.php?id=huali
-无线明珠,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
-无线明珠粤,http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
+无线华丽国标,http://php.jdshipin.com/PLTV/iptv.php?id=huali
+无线明珠频标,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
 无线千禧,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
-无线新闻台,http://php.jdshipin.com/smt.php?id=inews_twn
-无线娱乐,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
+无线娱乐频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 
 港澳C组,#genre#
 TVBPlus,http://aktv-stream.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
@@ -57,15 +56,13 @@ TVBPlus,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
 华视,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-5/AKTV.m3u8
 龙华电影台,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
 龙华日韩台,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-7/AKTV.m3u8
-美亚电影,http://aktv_stream1.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
 中视,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-4/AKTV.m3u8
 中天新闻,http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 
 港澳E组,#genre#
 TVBS欢乐,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB7220883472208834&ct=19234&tsum=82bece8e29754b899ffb60e5246dfc74
+东森电影,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
 东森幼幼,http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?ct=17874&tid=m84c9b210bc7f11269156&tsum=51340c8fb7ca02ab978ee0791843501d
-凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
-中天亚洲台,http://50.7.234.10:8278/ctiasia_twn/playlist.m3u8?tid=MBDB2043146120431461&ct=19234&tsum=ba6deb1dd785ef48ec39eda87a905fb6
 
 港澳F组,#genre#
 东森财经新闻台,https://www.youtube.com/watch?v=LbS-xQ67fos
@@ -82,20 +79,34 @@ TVBS欢乐,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB72208834
 中天新闻2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
 
 港澳G组,#genre#
+东森新闻,https://vx65267199.18cn.dpdns.org/21.m3u8
+凤凰香港,https://vx65267199.18cn.dpdns.org/4.m3u8
+凤凰资讯,https://vx65267199.18cn.dpdns.org/3.m3u8
+华视闽南,https://vx65267199.18cn.dpdns.org/31.m3u8
+华视新闻,https://vx65267199.18cn.dpdns.org/28.m3u8
+寰宇闽南,https://vx65267199.18cn.dpdns.org/32.m3u8
+寰宇新闻,https://vx65267199.18cn.dpdns.org/20.m3u8
+民视第一,https://vx65267199.18cn.dpdns.org/36.m3u8
+民视闽南,https://vx65267199.18cn.dpdns.org/30.m3u8
+民视闽语,https://vx65267199.18cn.dpdns.org/37.m3u8
+三立新闻,https://vx65267199.18cn.dpdns.org/23.m3u8
+台视新闻,https://vx65267199.18cn.dpdns.org/29.m3u8
+无线翡翠,https://vx65267199.18cn.dpdns.org/9.m3u8
+无线新闻,https://vx65267199.18cn.dpdns.org/7.m3u8
+无线娱乐,https://vx65267199.18cn.dpdns.org/11.m3u8
+中视新闻,https://vx65267199.18cn.dpdns.org/27.m3u8
+中天新闻,https://vx65267199.18cn.dpdns.org/5.m3u8
+
+港澳H组,#genre#
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklistw1266569526.m3u
-
-港澳H组,#genre#
-翡翠台,https://cdn.iptv8k.top/dl/jrys.php
-凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
-凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
-靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
 
 港澳I组,#genre#
 凤凰卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a2092354
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv?3u8y=txiptv
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;amp;amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;amp;amp;wsMonitor=0
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;wsMonitor=0
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639
@@ -105,6 +116,8 @@ TVBS欢乐,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB72208834
 凤凰香港,http://cdn3.132.us.kg/live/fhhk/stream.m3u8
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 龙华电影,https://cdn3.132.us.kg/live/lhdy/stream.m3u8
+龙华经典,https://cdn3.132.us.kg/live/lhjd/stream.m3u8
+龙华卡通,https://cdn3.132.us.kg/live/lhkt/stream.m3u8
 龙华偶像,https://cdn3.132.us.kg/live/lhox/stream.m3u8
 龙华日韩,https://cdn3.132.us.kg/live/lhrh/stream.m3u8
 龙华戏剧,https://cdn3.132.us.kg/live/lhxj/stream.m3u8
