@@ -1,4 +1,4 @@
-2025/06/22 11:05更新,#genre#
+2025/06/23 11:05更新,#genre#
 享受当下,https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/Pictures/Robot.mp4
 港澳A组,#genre#
 TVB华丽台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
@@ -6,15 +6,15 @@ TVB华丽台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk2
+凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
-美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 无线华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 无线华丽台,http://php.jdshipin.com:8880/smt.php?id=Wlt
+无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 
 港澳B组,#genre#
 TVB娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
@@ -23,7 +23,6 @@ TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
 翡翠台版TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
@@ -32,11 +31,14 @@ TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
 凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
 美亚电影,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
+美亚电影台,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 无线翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
 无线翡翠频标,http://php.jdshipin.com/PLTV/iptv.php?id=fct
 无线华丽国标,http://php.jdshipin.com/PLTV/iptv.php?id=huali
 无线明珠频标,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
+无线明珠粤高,http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
 无线千禧,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
+无线新闻台,http://php.jdshipin.com/smt.php?id=inews_twn
 无线娱乐频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 
 港澳C组,#genre#
@@ -62,7 +64,7 @@ TVBPlus,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
 港澳E组,#genre#
 TVBS欢乐,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB7220883472208834&ct=19234&tsum=82bece8e29754b899ffb60e5246dfc74
 东森电影,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
-东森幼幼,http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?ct=17874&tid=m84c9b210bc7f11269156&tsum=51340c8fb7ca02ab978ee0791843501d
+凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
 
 港澳F组,#genre#
 东森财经新闻台,https://www.youtube.com/watch?v=LbS-xQ67fos
