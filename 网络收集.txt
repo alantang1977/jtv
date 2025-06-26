@@ -1,4 +1,4 @@
-2025/06/25 10:56更新,#genre#
+2025/06/26 10:53更新,#genre#
 享受当下,https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/Pictures/Robot.mp4
 港澳A组,#genre#
 AXN,https://hls-gateway.vpstv.net/streams/602163.m3u8
@@ -45,7 +45,6 @@ TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
 翡翠台版TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
-无线新闻台,http://php.jdshipin.com/smt.php?id=inews_twn
 
 港澳D组,#genre#
 TVBPlus,http://aktv-stream.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
@@ -59,15 +58,21 @@ TVBPlus,http://aktv-stream.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
 TVBPlus,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
 翡翠台,http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8
 凤凰香港,http://aktv_stream1.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
+凤凰中文,http://aktv_stream1.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
 凤凰资讯,http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 华视,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-5/AKTV.m3u8
 龙华电影台,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
 龙华日韩台,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-7/AKTV.m3u8
-美亚电影,http://aktv_stream1.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
 中视,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-4/AKTV.m3u8
 中天新闻,http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 
 港澳F组,#genre#
+TVBS欢乐,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB7220883472208834&ct=19234&tsum=82bece8e29754b899ffb60e5246dfc74
+东森幼幼,http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?ct=17874&tid=m84c9b210bc7f11269156&tsum=51340c8fb7ca02ab978ee0791843501d
+凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
+《七星影仓》,http://50.7.234.10:8278/phoenixinfo_hd/playlist.m3u8?tid=MC1C1591244615912446&ct=19225&tsum=a4fd6441d252c98ea603b13ef749a84e
+
+港澳G组,#genre#
 东森财经新闻台,https://www.youtube.com/watch?v=LbS-xQ67fos
 东森新闻台,https://www.youtube.com/live/V1p33hqPrUk?si=IyGTwsTSIL7hXDKN
 华视新闻台,https://www.youtube.com/watch?v=wM0g8EoUZ_E
@@ -81,16 +86,12 @@ TVBPlus,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
 中天新闻1台,https://www.youtube.com/watch?v=oIgbl7t0S_w
 中天新闻2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
 
-港澳G组,#genre#
+港澳H组,#genre#
 凤凰卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a2092354
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv?3u8y=txiptv
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv?3u8key=txiptv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&wsMonitor=0
-
-港澳H组,#genre#
-凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
-《七星影仓》,http://50.7.234.10:8278/phoenixinfo_hd/playlist.m3u8?tid=MC1C1591244615912446&ct=19225&tsum=a4fd6441d252c98ea603b13ef749a84e
 
 港澳I组,#genre#
 凤凰香港,http://vapi.91kds.cc/live2/ifeng.m3u8?id=fhxghd&apiKey=73c963d13814ce7d0e4743c5e7d033cc
