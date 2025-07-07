@@ -1,9 +1,11 @@
-2025/07/06 11:05更新,#genre#
+2025/07/07 11:04更新,#genre#
 享受当下,https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/Pictures/Robot.mp4
 港澳A组,#genre#
 TVB华丽台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
@@ -21,6 +23,7 @@ TVBJ1美,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
@@ -29,6 +32,7 @@ TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
 凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
 美亚电影,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
+无线翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
 无线华丽国,http://php.jdshipin.com/PLTV/iptv.php?id=huali
 无线明珠,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
 无线明珠粤,http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
@@ -194,7 +198,6 @@ TVBPlus,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
 凤凰卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a2092354
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv?3u8key=txiptv
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;amp;amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;amp;amp;wsMonitor=0
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;wsMonitor=0
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639
@@ -202,6 +205,7 @@ TVBPlus,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
 
 港澳H组,#genre#
 凤凰香港,http://vapi.91kds.cc/live2/ifeng.m3u8?id=fhxghd&apiKey=73c963d13814ce7d0e4743c5e7d033cc
+凤凰中文,http://vapi.91kds.cc/live1/jdtv2.m3u8?id=fhzw&apiKey=73c963d13814ce7d0e4743c5e7d033cc
 凤凰中文,http://vapi.91kds.cc/live2/ifeng.m3u8?id=fhzwhd&apiKey=73c963d13814ce7d0e4743c5e7d033cc
 凤凰资讯,http://vapi.91kds.cc/live2/ifeng.m3u8?id=fhzxhd&apiKey=73c963d13814ce7d0e4743c5e7d033cc
 
