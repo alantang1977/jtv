@@ -1,4 +1,4 @@
-2025/07/19 11:02更新,#genre#
+2025/07/20 11:17更新,#genre#
 享受当下,https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/Pictures/Robot.mp4
 港澳A组,#genre#
 TVB华丽台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
@@ -9,6 +9,7 @@ TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
@@ -17,7 +18,6 @@ TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 
 港澳B组,#genre#
 TVB娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-TVB娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 TVBJ1美,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
@@ -33,7 +33,6 @@ TVBJ1美,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 无线翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
 无线华丽国,http://php.jdshipin.com/PLTV/iptv.php?id=huali
 无线明珠,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
-无线明珠粤,http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
 无线千禧,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
 无线新闻台,http://php.jdshipin.com/smt.php?id=inews_twn
 无线星河,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
@@ -193,7 +192,6 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 港澳G组,#genre#
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
-龙华电影,https://cdn3.132.us.kg/live/lhdy/stream.m3u8
 龙华经典,https://cdn3.132.us.kg/live/lhjd/stream.m3u8
 龙华卡通,https://cdn3.132.us.kg/live/lhkt/stream.m3u8
 龙华偶像,https://cdn3.132.us.kg/live/lhox/stream.m3u8
