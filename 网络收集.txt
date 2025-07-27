@@ -1,4 +1,4 @@
-2025/07/26 11:00更新,#genre#
+2025/07/27 11:16更新,#genre#
 享受当下,https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/Pictures/Robot.mp4
 港澳A组,#genre#
 1900影剧室,https://fmbox.cc/douyu.php?id=7796193
@@ -6,6 +6,7 @@
 进击D神乐,https://fmbox.cc/douyu.php?id=122402
 进击的神乐,https://fmbox.cc/douyu.php?id=85894
 破案TVB港剧,https://fmbox.cc/yy.php?id=1354932707
+易中天,https://fmbox.cc/huya.php?id=11602032
 易中天品三国,https://fmbox.cc/yy.php?id=1354931498
 
 港澳B组,#genre#
@@ -41,6 +42,14 @@ TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 无线新闻台,http://php.jdshipin.com/smt.php?id=inews_twn
 
 港澳D组,#genre#
+TVBS新闻台,https://live.tvfix.org/live/tvbsnews/index.m3u8
+TVBS,https://live.tvfix.org/live/tvbs/index.m3u8
+翡翠台,https://live.tvfix.org/live/jade/index.m3u8
+凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
+美亚电影,https://live.tvfix.org/live/mydy/index.m3u8
+无线新闻台,https://live.tvfix.org/live/inews/index.m3u8
+
+港澳E组,#genre#
 TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 东森财经新闻台,https://www.youtube.com/watch?v=LbS-xQ67fos
 东森新闻台,https://www.youtube.com/live/V1p33hqPrUk?si=IyGTwsTSIL7hXDKN
@@ -55,20 +64,18 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 中天新闻1台,https://www.youtube.com/watch?v=oIgbl7t0S_w
 中天新闻2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
 
-港澳E组,#genre#
+港澳F组,#genre#
 凤凰卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a2092354
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&wsMonitor=0
 
-港澳F组,#genre#
+港澳G组,#genre#
 凤凰香港,http://vapi.91kds.cc/live2/ifeng.m3u8?id=fhxghd&apiKey=73c963d13814ce7d0e4743c5e7d033cc
-凤凰中文,http://vapi.91kds.cc/live1/jdtv2.m3u8?id=fhzw&apiKey=73c963d13814ce7d0e4743c5e7d033cc
-凤凰中文,http://vapi.91kds.cc/live1/jdtv2.m3u8?id=fhzwhd&apiKey=73c963d13814ce7d0e4743c5e7d033cc
 凤凰中文,http://vapi.91kds.cc/live2/ifeng.m3u8?id=fhzwhd&apiKey=73c963d13814ce7d0e4743c5e7d033cc
 凤凰资讯,http://vapi.91kds.cc/live2/ifeng.m3u8?id=fhzxhd&apiKey=73c963d13814ce7d0e4743c5e7d033cc
 
-港澳G组,#genre#
+港澳H组,#genre#
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
 龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
