@@ -24,7 +24,7 @@ from urllib.parse import urlparse
 from translate import Translator  # 导入Translator类,用于文本翻译
 ## 定义txt文件的URL列表
 urls = [
-       'https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.m3u', 
+       'https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.m3u', 
        'https://dimaston.github.io/live.m3u',  #假m3u
        'https://raw.githubusercontent.com/xiongjian83/TvBox/refs/heads/main/live.txt',
        'https://raw.github.com/ddhola/file/d7afb504b1ba4fef31813e1166cb892215a9c063/0609test',
@@ -672,7 +672,7 @@ with open(file_path, 'r+', encoding='utf-8') as f:
     content = f.read()
     f.seek(0, 0)
     f.write(f'{current_time}更新,#genre#\n')
-    f.write(f'享受当下,https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/Pictures/Robot.mp4\n{content}')
+    f.write(f'享受当下,https://raw.githubusercontent.com/alantang1977/X/main/Pictures/Robot.mp4\n{content}')
        
 
 ################################################################################################任务结束，删除不必要的过程文件
