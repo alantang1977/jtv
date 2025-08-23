@@ -1,10 +1,3 @@
 #鉴于酒店源的不实用性,本次最后一次更新。如果需要的话,请fork以后自行启用工作流程
-最后更新时间2025-08-22 10:13,#genre#
+最后更新时间2025-08-23 10:03,#genre#
 享受当下,https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/Pictures/Robot.mp4
-省市频道,#genre#
-河南梨园,http://123.13.156.192:808/hls/30/index.m3u8?$智慧光迅听说名字越长越好看
-
-其他频道,#genre#
-文物宝库,http://123.13.156.192:808/hls/29/index.m3u8?$智慧光迅听说名字越长越好看
-武术世界,http://123.13.156.192:808/hls/31/index.m3u8?$智慧光迅听说名字越长越好看
-足球,http://123.13.156.192:808/hls/87/index.m3u8?$智慧光迅听说名字越长越好看
