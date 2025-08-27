@@ -40,7 +40,7 @@ def via_tonking(url):
         # 提取 IP 地址部分，去除协议
         ip_address = url.split("//")[-1]
         response = requests.get(
-            url=f'https://tonkiang.us/hoteliptv.php?page=1&iphone1=广州市&code=',
+            url=f'https://tonkiang.us/hoteliptv2025.php?page=1&iphone1=广州市&code=',
             headers=headers,
             timeout=10
         )
@@ -61,7 +61,7 @@ def get_tonkiang(keyword):
     }
     try:
         resp = requests.post(
-            "http://tonkiang.us/hoteliptv.php",
+            "https://tonkiang.us/hoteliptv2025.php",
             headers=header,
             data=data,
             timeout=10
