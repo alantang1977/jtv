@@ -300,11 +300,11 @@ for filename in os.listdir(folder_path):
 #  获取远程直播源文件,打开文件并输出临时文件
 urls = [
     "https://raw.githubusercontent.com/frxz751113/AAAAA/main/IPTV/汇汇.txt",
-    "https://cnb.cool/junchao.tang/llive/-/git/raw/main/TG收集.m3u",
+    "https://gitee.com/jin-xueling/cinematography/raw/master/json.txt",
     "https://cnb.cool/junchao.tang/llive/-/git/raw/main/webview.txt",
     "https://cnb.cool/junchao.tang/llive/-/git/raw/main/全网通",
-    "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.m3u",
-    "https://cnb.cool/junchao.tang/llive/-/git/raw/main/咪咕直播"
+    "https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.m3u",
+    "https://d.kstore.dev/download/15114/TVSolo.txt"
 ]
 combined_content = ""
 for url in urls:
