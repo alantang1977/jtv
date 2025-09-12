@@ -672,7 +672,7 @@ with open(file_path, 'r+', encoding='utf-8') as f:
     content = f.read()
     f.seek(0, 0)
     f.write(f'{current_time}更新,#genre#\n')
-    f.write(f'享受当下,https://raw.githubusercontent.com/alantang1977/X/main/Pictures/Robot.mp4\n{content}')
+    f.write(f'享受当下,https://codeberg.org/alantang/photo/raw/branch/main/Robot.mp4\n{content}')
        
 
 ################################################################################################任务结束，删除不必要的过程文件
