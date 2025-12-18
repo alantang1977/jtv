@@ -1,10 +1,9 @@
-2025/12/17 10:26更新,#genre#
+2025/12/18 10:26更新,#genre#
 享受当下,https://codeberg.org/alantang/photo/raw/branch/main/Robot.mp4
 港澳A组,#genre#
 1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy
 TVB华丽台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 TVB千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
@@ -19,7 +18,6 @@ TVB千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 TVB娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 TVB娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 TVBJ1美,http://php.jdshipin.com/PLTV/iptv.php?id=j1
-翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
 翡翠台版TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
@@ -47,26 +45,28 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 中天新闻2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
 
 港澳D组,#genre#
-东森新闻,https://vx65267199.18cn.dpdns.org/21.m3u8
 凤凰卫视,https://vx65267199.18cn.dpdns.org/2.m3u8
 凤凰香港,https://vx65267199.18cn.dpdns.org/4.m3u8
 凤凰资讯,https://vx65267199.18cn.dpdns.org/3.m3u8
+华视闽南,https://vx65267199.18cn.dpdns.org/31.m3u8
+华视新闻,https://vx65267199.18cn.dpdns.org/28.m3u8
 寰宇闽南,https://vx65267199.18cn.dpdns.org/32.m3u8
 寰宇新闻,https://vx65267199.18cn.dpdns.org/20.m3u8
 民视第一,https://vx65267199.18cn.dpdns.org/36.m3u8
-民视闽南,https://vx65267199.18cn.dpdns.org/30.m3u8
+民视旅游,https://vx65267199.18cn.dpdns.org/39.m3u8
 民视闽语,https://vx65267199.18cn.dpdns.org/37.m3u8
 民视影剧,https://vx65267199.18cn.dpdns.org/38.m3u8
-台视新闻,https://vx65267199.18cn.dpdns.org/29.m3u8
+三立闽南,https://vx65267199.18cn.dpdns.org/41.m3u8
+三立新闻,https://vx65267199.18cn.dpdns.org/23.m3u8
 无线翡翠,https://vx65267199.18cn.dpdns.org/9.m3u8
 无线明珠,https://vx65267199.18cn.dpdns.org/10.m3u8
 无线新闻,https://vx65267199.18cn.dpdns.org/7.m3u8
 无线娱乐,https://vx65267199.18cn.dpdns.org/11.m3u8
+中视新闻,https://vx65267199.18cn.dpdns.org/27.m3u8
 中天新闻,https://vx65267199.18cn.dpdns.org/5.m3u8
 
 港澳E组,#genre#
 凤凰香港,http://vapi.91kds.cc/live2/ifeng.m3u8?id=fhxghd&apiKey=73c963d13814ce7d0e4743c5e7d033cc
-凤凰中文,http://vapi.91kds.cc/live1/jdtv2.m3u8?id=fhzw&apiKey=73c963d13814ce7d0e4743c5e7d033cc
 凤凰中文,http://vapi.91kds.cc/live2/ifeng.m3u8?id=fhzwhd&apiKey=73c963d13814ce7d0e4743c5e7d033cc
 凤凰资讯,http://vapi.91kds.cc/live2/ifeng.m3u8?id=fhzxhd&apiKey=73c963d13814ce7d0e4743c5e7d033cc
 
