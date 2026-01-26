@@ -1,4 +1,4 @@
-2026/01/25 10:44更新,#genre#
+2026/01/26 10:42更新,#genre#
 享受当下,https://codeberg.org/alantang/photo/raw/branch/main/Robot.mp4
 港澳A组,#genre#
 1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy
@@ -18,19 +18,11 @@ TVB星河国语,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 
 港澳B组,#genre#
 TVB娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-TVBJ1美,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 翡翠台版TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
-凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
-天映,http://php.jdshipin.com/smt.php?id=Celestial
-无线翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
-无线华丽国,http://php.jdshipin.com/PLTV/iptv.php?id=huali
-无线千禧,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线新闻台,http://php.jdshipin.com/smt.php?id=inews_twn
-无线星河,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
-无线娱乐,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 
 港澳C组,#genre#
 TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
@@ -45,15 +37,6 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 中天新闻2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
 
 港澳D组,#genre#
-东森电影,http://live4play.uk/livehttpplay?channel_id=20104
-凤凰中文,http://live4play.uk/livehttpplay?channel_id=20065
-凤凰中文,http://live4play.uk/livehttpplay?channel_id=30014
-凤凰资讯,http://live4play.uk/livehttpplay?channel_id=20066
-凤凰资讯,http://live4play.uk/livehttpplay?channel_id=30015
-靖天电影,http://live4play.uk/livehttpplay?channel_id=12037
-纬来电影台,http://live4play.uk/livehttpplay?channel_id=20199
-
-港澳E组,#genre#
 凤凰香港,http://vapi.91kds.cc/live1/jdtv2.m3u8?id=fhxghd&apiKey=73c963d13814ce7d0e4743c5e7d033cc
 凤凰香港,http://vapi.91kds.cc/live2/ifeng.m3u8?id=fhxghd&apiKey=73c963d13814ce7d0e4743c5e7d033cc
 凤凰中文,http://vapi.91kds.cc/live1/jdtv2.m3u8?id=fhzw&apiKey=73c963d13814ce7d0e4743c5e7d033cc
@@ -62,14 +45,4 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 凤凰资讯,http://vapi.91kds.cc/live1/jdtv2.m3u8?id=fhzx&apiKey=73c963d13814ce7d0e4743c5e7d033cc
 凤凰资讯,http://vapi.91kds.cc/live1/jdtv2.m3u8?id=fhzxhd&apiKey=73c963d13814ce7d0e4743c5e7d033cc
 凤凰资讯,http://vapi.91kds.cc/live2/ifeng.m3u8?id=fhzxhd&apiKey=73c963d13814ce7d0e4743c5e7d033cc
-
-港澳F组,#genre#
-凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
-龙华电影,https://cdn3.132.us.kg/live/lhdy/stream.m3u8
-龙华经典,https://cdn3.132.us.kg/live/lhjd/stream.m3u8
-龙华卡通,https://cdn3.132.us.kg/live/lhkt/stream.m3u8
-龙华日韩,https://cdn3.132.us.kg/live/lhrh/stream.m3u8
-龙华戏剧,https://cdn3.132.us.kg/live/lhxj/stream.m3u8
-无线翡翠,http://cdn3.132.us.kg/live/fct/stream.m3u8
-无线新闻,http://cdn3.132.us.kg/live/wxxw/stream.m3u8
 
