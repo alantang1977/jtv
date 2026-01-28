@@ -1,4 +1,4 @@
-2026/01/27 10:37更新,#genre#
+2026/01/28 10:34更新,#genre#
 享受当下,https://codeberg.org/alantang/photo/raw/branch/main/Robot.mp4
 港澳A组,#genre#
 1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy
@@ -22,7 +22,6 @@ TVB娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 翡翠台版TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-无线新闻台,http://php.jdshipin.com/smt.php?id=inews_twn
 
 港澳C组,#genre#
 TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
