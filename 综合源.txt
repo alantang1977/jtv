@@ -7448,7 +7448,7 @@ DJ流浪兄弟,https://vd2.bdstatic.com/mda-mhrdtax1km0idkc5/1080p/cae_h264/1629
 
 
 
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/epg/epg.gz"
+{"errcode": 404, "errmsg": "Not Found"}{"errcode": 404, "errmsg": "Not Found"}#EXTM3U x-tvg-url="https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/epg/epg.gz"
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="http://10.1.0.4:5180/logo/广州综合.png" group-title="🕘️更新时间",2026-02-06 00:22:53
 http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="http://10.1.0.4:5180/logo/广州综合.png" group-title="🍄┃广东频道",广州综合
