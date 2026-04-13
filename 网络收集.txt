@@ -1,4 +1,4 @@
-2026/04/12 11:55更新,#genre#
+2026/04/13 12:02更新,#genre#
 享受当下,https://codeberg.org/alantang/photo/raw/branch/main/Robot.mp4
 港澳A组,#genre#
 1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy
@@ -8,6 +8,7 @@ TVB千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+无线Plus台,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 无线华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 
@@ -15,30 +16,31 @@ TVB千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 AMC电影台,https://gat.zhoujie218.top/litv/4gtv-4gtv017
 CATCHPLAY电影台,https://gat.zhoujie218.top/litv/4gtv-4gtv076
 TVBS欢乐台,https://gat.zhoujie218.top/litv/4gtv-4gtv068
+TVBS精采台,https://gat.zhoujie218.top/litv/4gtv-4gtv067
 TVBS新闻台,https://gat.zhoujie218.top/litv/4gtv-4gtv072
 TVBS,https://gat.zhoujie218.top/litv/4gtv-4gtv073
 八大精彩台,https://gat.zhoujie218.top/litv/4gtv-4gtv034
 八大综艺台,https://gat.zhoujie218.top/litv/4gtv-4gtv039
 采昌影剧,https://gat.zhoujie218.top/litv/4gtv-4gtv049
+东森财经新闻,https://gat.zhoujie218.top/litv/4gtv-4gtv153
 东森新闻,https://gat.zhoujie218.top/litv/4gtv-4gtv152
 公视戏剧,https://gat.zhoujie218.top/litv/4gtv-4gtv042
+华视,https://gat.zhoujie218.top/litv/4gtv-4gtv041
 华视新闻,https://gat.zhoujie218.top/litv/4gtv-4gtv052
-寰宇财经台,https://gat.zhoujie218.top/litv/litv-longturn23
+寰宇新闻台,https://gat.zhoujie218.top/litv/litv-longturn14
 寰宇新闻台湾台,https://gat.zhoujie218.top/litv/litv-longturn15
 靖天电影台,https://gat.zhoujie218.top/litv/4gtv-4gtv061
 靖天欢乐台,https://gat.zhoujie218.top/litv/4gtv-4gtv054
 靖天卡通台,https://gat.zhoujie218.top/litv/4gtv-4gtv044
 靖天日本台,https://gat.zhoujie218.top/litv/4gtv-4gtv047
-靖天台,https://gat.zhoujie218.top/litv/4gtv-4gtv063
 靖天戏剧台,https://gat.zhoujie218.top/litv/4gtv-4gtv058
-靖天映画,https://gat.zhoujie218.top/litv/4gtv-4gtv055
 靖天育乐台,https://gat.zhoujie218.top/litv/4gtv-4gtv062
+靖天资讯台,https://gat.zhoujie218.top/litv/4gtv-4gtv065
 靖天综合台,https://gat.zhoujie218.top/litv/4gtv-4gtv046
 靖洋卡通台,https://gat.zhoujie218.top/litv/4gtv-4gtv057
 靖洋戏剧台,https://gat.zhoujie218.top/litv/4gtv-4gtv045
 龙华电影,https://gat.zhoujie218.top/litv/litv-longturn03
 龙华经典,https://gat.zhoujie218.top/litv/litv-longturn21
-龙华卡通,https://gat.zhoujie218.top/litv/litv-longturn01
 龙华偶像,https://gat.zhoujie218.top/litv/litv-longturn12
 龙华日韩,https://gat.zhoujie218.top/litv/litv-longturn11
 龙华戏剧,https://gat.zhoujie218.top/litv/litv-longturn18
@@ -50,8 +52,8 @@ TVBS,https://gat.zhoujie218.top/litv/4gtv-4gtv073
 民视台湾台,https://gat.zhoujie218.top/litv/4gtv-4gtv156
 民视新闻台,https://gat.zhoujie218.top/litv/litv-ftv13
 民视影剧,https://gat.zhoujie218.top/litv/litv-ftv09
-民视综艺,https://gat.zhoujie218.top/litv/4gtv-4gtv004
 台视,https://gat.zhoujie218.top/litv/4gtv-4gtv066
+台视财经,https://gat.zhoujie218.top/litv/4gtv-4gtv056
 台视新闻,https://gat.zhoujie218.top/litv/4gtv-4gtv051
 台湾戏剧台,https://gat.zhoujie218.top/litv/litv-longturn22
 影迷数位电影台,https://gat.zhoujie218.top/litv/4gtv-4gtv011
@@ -60,7 +62,6 @@ TVBS,https://gat.zhoujie218.top/litv/4gtv-4gtv073
 中视经典,https://gat.zhoujie218.top/litv/4gtv-4gtv080
 中视新闻,https://gat.zhoujie218.top/litv/4gtv-4gtv074
 中天新闻,https://gat.zhoujie218.top/litv/4gtv-4gtv009
-猪哥亮歌厅秀,https://gat.zhoujie218.top/litv/4gtv-4gtv006
 
 港澳C组,#genre#
 Now星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
@@ -71,7 +72,6 @@ TVBS-新闻台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-华视,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
 寰宇新闻台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 黄金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 靖天电影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
@@ -85,13 +85,6 @@ TVBS-新闻台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 中天亚洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 
 港澳D组,#genre#
-TVB娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
-
-港澳E组,#genre#
 TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 东森财经新闻台,https://www.youtube.com/watch?v=LbS-xQ67fos
 东森新闻台,https://www.youtube.com/live/V1p33hqPrUk?si=IyGTwsTSIL7hXDKN
@@ -103,7 +96,7 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 中天新闻1台,https://www.youtube.com/watch?v=oIgbl7t0S_w
 中天新闻2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
 
-港澳F组,#genre#
+港澳E组,#genre#
 凤凰香港,http://vapi.91kds.cc/live1/jdtv2.m3u8?id=fhxghd&apiKey=73c963d13814ce7d0e4743c5e7d033cc
 凤凰香港,http://vapi.91kds.cc/live2/ifeng.m3u8?id=fhxghd&apiKey=73c963d13814ce7d0e4743c5e7d033cc
 凤凰中文,http://vapi.91kds.cc/live1/jdtv2.m3u8?id=fhzw&apiKey=73c963d13814ce7d0e4743c5e7d033cc
