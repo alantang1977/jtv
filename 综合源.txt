@@ -1066,7 +1066,7 @@ RTMP频道EXO解码,#genre#
 长宁[1080p],rtmp://cnpull.sccnfb.com/live/123456
 漳州[720p],rtmp://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175
 达川生活[1080p],rtmp://tv.drs.dzxw.net/channellive/ggpd-dz2
-[session-334fb49e] Route error: The Repository has been blocked. see: https://gitee.com/jin-xueling/cinematography{"errcode": 404, "errmsg": "Not Found"}{"errcode": 404, "errmsg": "Not Found"}#EXTM3U x-tvg-url="https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/epg/epg.gz"
+[session-7b4ecc96] Route error: The Repository has been blocked. see: https://gitee.com/jin-xueling/cinematography{"errcode": 404, "errmsg": "Not Found"}{"errcode": 404, "errmsg": "Not Found"}#EXTM3U x-tvg-url="https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/epg/epg.gz"
 #EXTINF:-1 tvg-id="1" tvg-name="广州综合" tvg-logo="http://10.1.0.246:5180/logo/广州综合.png" group-title="🕘️更新时间",2026-04-13 11:13:54
 http://115.29.208.41:34567/gd.php?id=1175
 #EXTINF:-1 tvg-id="1" tvg-name="广州综合" tvg-logo="http://10.1.0.246:5180/logo/广州综合.png" group-title="🍄┃广东频道",广州综合
