@@ -1,4 +1,4 @@
-404: Not Found[session-b240a191] Route error: The Repository has been blocked. see: https://gitee.com/jin-xueling/cinematography{"errcode": 404, "errmsg": "Not Found"}{"errcode": 404, "errmsg": "Not Found"}#EXTM3U x-tvg-url="https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/epg/epg.gz"
+404: Not Found[session-e64f289f] Route error: The Repository has been blocked. see: https://gitee.com/jin-xueling/cinematography{"errcode": 404, "errmsg": "Not Found"}{"errcode": 404, "errmsg": "Not Found"}#EXTM3U x-tvg-url="https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/epg/epg.gz"
 #EXTINF:-1 tvg-id="1" tvg-name="广州综合" tvg-logo="http://10.1.0.237:5180/logo/广州综合.png" group-title="🕘️更新时间",2026-06-22 12:24:35
 http://r.jdshipin.com/iR6Gq
 #EXTINF:-1 tvg-id="1" tvg-name="广州综合" tvg-logo="http://10.1.0.237:5180/logo/广州综合.png" group-title="🍄┃广东频道",广州综合
